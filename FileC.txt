@@ -1,3 +1,5 @@
 Thus is File C
 
 Made change in File C in Feature bfranch
+
+This is for squat merge
